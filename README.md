@@ -8,7 +8,8 @@ I. Setup and build project
     php artisan serve
 ### Vuejs
     
-    npm install    
+    npm install
+    npm run dev
 
 II. Laravel Test
 1. Test1
