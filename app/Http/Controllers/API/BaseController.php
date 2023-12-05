@@ -31,7 +31,7 @@ abstract class BaseController
     {
         try {
             //Start log
-            Log::info(Message::LOG_START);
+            Log::info(Message::LOG_START . '!!!');
 
             //API processing
             $response = $this->execute($request);
